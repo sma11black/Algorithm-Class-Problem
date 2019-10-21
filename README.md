@@ -3,23 +3,23 @@ ND256
 
 ## Data Structure
 
-### [Array](tree/master/Array)
+### [Array](Array)
 
-### [Stack]()
+### [Stack](Stack)
 
-### [Queue]()
+### [Queue](Queue)
 
-### [Linked List]()
+### [Linked List](LinkedList)
 
-### [Tree]()
+### [Tree](Tree)
 
-### [Heap]()
+### [Heap](Heap)
 
-### [Binary Search Tree]()
+### [Binary Search Tree](BST)
 
-### [Graph]()
+### [Graph](Graph)
 
-### [LRU Cache]()
+### [LRU Cache](LRU Cache)
 
 ## Algorithm
 
