@@ -19,7 +19,7 @@ ND256
 
 ### [Graph](Graph)
 
-### [LRU Cache](LRU Cache)
+### [LRU Cache](LRU%20Cache)
 
 ## Algorithm
 
